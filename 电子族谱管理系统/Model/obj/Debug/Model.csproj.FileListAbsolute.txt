@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\电子族谱管理系统\Model\bin\Debug\Model.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Model\bin\Debug\Model.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\电子族谱管理系统\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\电子族谱管理系统\Model\obj\Debug\Model.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Model\obj\Debug\Model.pdb

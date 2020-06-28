@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\电子族谱管理系统\Common\bin\Debug\Common.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Common\bin\Debug\Common.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\电子族谱管理系统\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\电子族谱管理系统\Common\obj\Debug\Common.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Common\obj\Debug\Common.pdb
