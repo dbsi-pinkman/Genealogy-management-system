@@ -1,0 +1,46 @@
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.exe.config
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.exe
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\Common.dll
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\Dal.dll
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\Model.dll
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\Common.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\Dal.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\bin\Debug\Model.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.Properties.Resources.resources
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csproj.CopyComplete
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.exe
+C:\Users\hp\Desktop\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.exe.config
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.exe
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.exe
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\Common.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\Dal.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\Model.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\Common.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\Dal.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\bin\Debug\Model.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csprojResolveAssemblyReference.cache
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.Properties.Resources.resources
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csproj.GenerateResource.Cache
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.FormGenaration.resources
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.exe.config
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.exe
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.exe
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\电子族谱管理系统.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\Common.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\Dal.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\Model.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\Common.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\Dal.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\bin\Debug\Model.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csprojResolveAssemblyReference.cache
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.FormGenaration.resources
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.Properties.Resources.resources
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\电子族谱管理系统\obj\Debug\电子族谱管理系统.csproj.GenerateResource.Cache

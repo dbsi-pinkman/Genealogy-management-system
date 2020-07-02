@@ -1,0 +1,29 @@
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\bin\Debug\Dal.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\bin\Debug\Dal.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\bin\Debug\Common.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\bin\Debug\Model.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\bin\Debug\Common.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\bin\Debug\Model.pdb
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\obj\Debug\Dal.dll
+C:\Users\hp\Desktop\电子族谱管理系统\Dal\obj\Debug\Dal.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\bin\Debug\Dal.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\bin\Debug\Dal.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\bin\Debug\Common.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\bin\Debug\Model.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\bin\Debug\Common.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\bin\Debug\Model.pdb
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\obj\Debug\Dal.dll
+D:\Desktop\电子族谱管理系统\电子族谱管理系统\Dal\obj\Debug\Dal.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bin\Debug\Dal.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bin\Debug\Dal.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bin\Debug\Common.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bin\Debug\Model.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bin\Debug\Common.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bin\Debug\Model.pdb
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\obj\Debug\Dal.dll
+D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\obj\Debug\Dal.pdb
